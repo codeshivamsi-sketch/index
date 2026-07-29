@@ -40,15 +40,15 @@ I'm an Engineering Manager. I write code to experiment with different stacks and
 
 ### Workflows 
 **[Claud code dev workflow](https://github.com/codeshivamsi-sketch/claud_code_dev_workflow)** — A documented, opinionated workflow for AI-assisted development in two stages: Understand the codebase (tree-sitter knowledge graph queried over MCP via codegraph), and Write with guardrails (plan-first via Superpowers, YAGNI constraints via Ponytail, always-on CLAUDE.md context, task-scoped skills, auto lint/typecheck hooks). Installs into any repo with a single prompt.
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-codegraph-000000?style=flat&logo=anthropic&logoColor=white)
-![Superpowers](https://img.shields.io/badge/Superpowers-Plan_first-3fb950?style=flat)
-![Ponytail](https://img.shields.io/badge/Ponytail-YAGNI-8957e5?style=flat)
-![Playwright](https://img.shields.io/badge/Playwright_MCP-Browser_verify-2ead33?style=flat)
-![PR-Agent](https://img.shields.io/badge/PR--Agent-AI_review-d29922?style=flat)
-![CRG](https://img.shields.io/badge/code--review--graph-Blast_radius-f85149?style=flat)
-![Keploy](https://img.shields.io/badge/Keploy-Test_gen-ff914d?style=flat)
-![Mermaid](https://img.shields.io/badge/Mermaid-Diagrams-ff3670?style=flat&logo=mermaid&logoColor=white)
+
+![codegraph](https://img.shields.io/badge/codegraph-1f6feb?style=for-the-badge)
+![Mermaid](https://img.shields.io/badge/Mermaid-ff3670?style=for-the-badge&logo=mermaid&logoColor=white)
+![Superpowers](https://img.shields.io/badge/Superpowers-3fb950?style=for-the-badge)
+![Ponytail](https://img.shields.io/badge/Ponytail-8957e5?style=for-the-badge)
+![CLAUDE.md](https://img.shields.io/badge/CLAUDE.md-d97757?style=for-the-badge&logo=claude&logoColor=white)
+![Hooks](https://img.shields.io/badge/Hooks-6e7681?style=for-the-badge)
+![Skills](https://img.shields.io/badge/Skills-bc8cff?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/100%25_Open_Source-238636?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
