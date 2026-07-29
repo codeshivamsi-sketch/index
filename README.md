@@ -39,7 +39,7 @@ I'm an Engineering Manager. I write code to experiment with different stacks and
 ---
 
 ### Workflows 
-**[Claud code dev workflow](https://github.com/codeshivamsi-sketch/claud_code_dev_workflow)** — A documented, opinionated workflow for AI-assisted development in two stages: Understand the codebase (tree-sitter knowledge graph queried over MCP via codegraph), and Write with guardrails (plan-first via Superpowers, YAGNI constraints via Ponytail, always-on CLAUDE.md context, task-scoped skills, auto lint/typecheck hooks). Installs into any repo with a single prompt.
+**[Claude code dev workflow](https://github.com/codeshivamsi-sketch/claud_code_dev_workflow)** — A documented, opinionated workflow for AI-assisted development in two stages: Understand the codebase (tree-sitter knowledge graph queried over MCP via codegraph), and Write with guardrails (plan-first via Superpowers, YAGNI constraints via Ponytail, always-on CLAUDE.md context, task-scoped skills, auto lint/typecheck hooks). Installs into any repo with a single prompt.
 
 ![codegraph](https://img.shields.io/badge/codegraph-1f6feb?style=for-the-badge)
 ![Mermaid](https://img.shields.io/badge/Mermaid-ff3670?style=for-the-badge&logo=mermaid&logoColor=white)
